@@ -1,2 +1,3 @@
-module fileread {
+module Sandbox {
+	exports fileread;
 }
